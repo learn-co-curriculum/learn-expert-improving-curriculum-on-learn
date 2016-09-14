@@ -29,7 +29,8 @@ Review the open issues in the canonical repository to make sure that your issue 
 
 ### Guidelines for Raising an Issue
 
-**Title**
+**Title**  
+
 This is the first thing that someone will see when they’re going through an open list of all issues in the learn-co-curriculum org.
 
 Let’s look at some bad and better versions of issue titles.
@@ -77,7 +78,6 @@ When you raise an issue on a bit of curriculum, please make sure to @ mention th
 
 ## Making a PR
 
-In some cases, the fix for the problem can be simple enough for you to make a PR on it. Make the PR, and in a comment, indicate that you're a Learn Expert and what the PR fixes. Be as specific as you can. 
-
+In some cases, the fix for the problem can be simple enough for you to make a PR on it. Make the PR, and follow the guidelines in the Issue section on how to write a good title. Then in a comment in the PR, indicate that you're a Learn Expert and what the PR fixes. Be as specific as you can. 
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/learn-expert-improving-curriculum-on-learn'>Learn Expert Improving Curriculum on Learn </a> on Learn.co and start learning to code for free.</p>
