@@ -80,5 +80,3 @@ When you raise an issue on a bit of curriculum, please make sure to @ mention th
 ## Making a PR
 
 In some cases, the fix for the problem can be simple enough for you to make a PR on it. Make the PR, and follow the guidelines in the Issue section on how to write a good title. Then in a comment in the PR, indicate that you're a Learn Expert and what the PR fixes. Be as specific as you can.
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/learn-expert-improving-curriculum-on-learn'>Learn Expert Improving Curriculum on Learn </a> on Learn.co and start learning to code for free.</p>
