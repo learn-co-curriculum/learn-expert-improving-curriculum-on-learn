@@ -30,6 +30,8 @@ Review the open issues in the canonical repository to make sure that your issue 
 
 ### Guidelines for Raising an Issue
 
+![raise an issue](http://i.giphy.com/xT5LMtPw9a0ijuU7zG.gif)
+
 **Title**  
 
 This is the first thing that someone will see when they’re going through an open list of all issues in the learn-co-curriculum org.
