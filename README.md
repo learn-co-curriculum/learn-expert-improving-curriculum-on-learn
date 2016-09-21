@@ -82,3 +82,7 @@ When you raise an issue on a bit of curriculum, please make sure to @ mention th
 ## Making a PR
 
 In some cases, the fix for the problem can be simple enough for you to make a PR on it. Make the PR, and follow the guidelines in the Issue section on how to write a good title. Then in a comment in the PR, indicate that you're a Learn Expert and what the PR fixes. Be as specific as you can.
+
+## Resources
+
+https://github.com/flatiron-labs/learn-support/blob/master/how-to-do-raise-an-issue.md
