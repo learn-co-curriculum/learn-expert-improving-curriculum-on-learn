@@ -1,6 +1,8 @@
-# Curriculum 
+# Curriculum
 
 ## learn-co-curriculum v learn-co-students
+
+![deploys](https://s3.amazonaws.com/learn-experts/deploys.png)
 
 When we create curriculum, we create it in the learn-co-curriculum Github organization. All the lessons in here are what we call canonical lessons.
 
@@ -9,7 +11,6 @@ When we deploy curriculum, we are deploying it to a different Github organizatio
 So for example, here is the url of the canonical version of a lab:
 https://github.com/learn-co-curriculum/my-each/
 
-
 And here’s the url of the deployed version of the same lab in the Full Stack Track (batch V-000):
 https://github.com/learn-co-students/my-each-v-000
 
@@ -17,11 +18,13 @@ https://github.com/learn-co-students/my-each-v-000
 
 ## When and How to Raise an Issue
 
-Sometimes when a student has a question it may not be their fault but instead is an issue with the lesson. In this case, after working with the student, **ALWAYS raise an issue on the [canonical lesson](#learn-co-curriculum-v-learn-co-students) repository**.  DO NOT tell the student to raise the issue since they will not always know how best to raise one and what to include. 
+Sometimes when a student has a question it may not be their fault but instead is an issue with the lesson. In this case, after working with the student, **ALWAYS raise an issue on the canonical lesson repository**.  DO NOT tell the student to raise the issue since they will not always know how best to raise one and what to include.
 
-Because anyone can fix or collaborate with others to fix an issue, it’s important that you explain the issue clearly so that someone looking at it will be able to understand the problem and proposed solution without having to ask for further clarification.
+Because anyone can fix or collaborate with others to fix an issue, it’s important that you explain the issue clearly so that someone looking at it will be able to understand the problem and proposed solution without having to ask for further clarification. Now you're all set to raise an issue on the curriculum!
 
-To raise good issues, follow these guidelines below:
+![raise an issue](http://i.giphy.com/xT5LMtPw9a0ijuU7zG.gif)
+
+But first, some guides to raising a _good_ issue:
 
 ### Does Your Issue Already Exist?
 
@@ -78,6 +81,4 @@ When you raise an issue on a bit of curriculum, please make sure to @ mention th
 
 ## Making a PR
 
-In some cases, the fix for the problem can be simple enough for you to make a PR on it. Make the PR, and follow the guidelines in the Issue section on how to write a good title. Then in a comment in the PR, indicate that you're a Learn Expert and what the PR fixes. Be as specific as you can. 
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/learn-expert-improving-curriculum-on-learn'>Learn Expert Improving Curriculum on Learn </a> on Learn.co and start learning to code for free.</p>
+In some cases, the fix for the problem can be simple enough for you to make a PR on it. Make the PR, and follow the guidelines in the Issue section on how to write a good title. Then in a comment in the PR, indicate that you're a Learn Expert and what the PR fixes. Be as specific as you can.
