@@ -20,17 +20,17 @@ https://github.com/learn-co-students/my-each-v-000
 
 Sometimes when a student has a question it may not be their fault but instead is an issue with the lesson. In this case, after working with the student, **ALWAYS raise an issue on the canonical lesson repository**.  DO NOT tell the student to raise the issue since they will not always know how best to raise one and what to include.
 
-Because anyone can fix or collaborate with others to fix an issue, it’s important that you explain the issue clearly so that someone looking at it will be able to understand the problem and proposed solution without having to ask for further clarification.
+Because anyone can fix or collaborate with others to fix an issue, it’s important that you explain the issue clearly so that someone looking at it will be able to understand the problem and proposed solution without having to ask for further clarification. Now you're all set to raise an issue on the curriculum!
 
-To raise good issues, follow these guidelines below:
+![raise an issue](http://i.giphy.com/xT5LMtPw9a0ijuU7zG.gif)
+
+But first, some guides to raising a _good_ issue:
 
 ### Does Your Issue Already Exist?
 
 Review the open issues in the canonical repository to make sure that your issue hasn’t already been reported. If the issue has, then add a comment in that issue and explain that this is still a problem. If the existing issue description isn’t clear enough then make it clearer using the suggestions below.
 
 ### Guidelines for Raising an Issue
-
-![raise an issue](http://i.giphy.com/xT5LMtPw9a0ijuU7zG.gif)
 
 **Title**  
 
