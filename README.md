@@ -85,4 +85,4 @@ In some cases, the fix for the problem can be simple enough for you to make a PR
 
 ## Resources
 
- - [Raising an Issue in the Reference Guide](https://github.com/flatiron-labs/learn-support/blob/master/how-to-do-raise-an-issue.md)
+ - [Raising an Issue in the Reference Guide](https://github.com/flatiron-labs/learn-support/blob/master/how-to-raise-an-issue.md)
