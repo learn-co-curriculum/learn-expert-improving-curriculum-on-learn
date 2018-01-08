@@ -77,7 +77,7 @@ Then in a new paragraph, list and explain the information that would fix the iss
 
 ### Using @mentions
 
-When you raise an issue on a bit of curriculum, please make sure to @ mention the Learn Instructor (https://github.com/flatiron-labs/learn-support/blob/master/learn-instructors.md#sections) in charge of that curriculum as well as cc @AnnJohn and @aturkewi.
+When you raise an issue on a bit of curriculum, please make sure to @ mention the Learn Instructor (https://github.com/flatiron-labs/learn-support/blob/master/learn-instructors.md#sections) in charge of that curriculum as well as cc @AnnJohn and @ruthmesfun .
 
 ## Making a PR
 
